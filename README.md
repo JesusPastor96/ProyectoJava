@@ -55,6 +55,7 @@ Este proyecto ha sido desarrollado como parte de la **Unidad JDBC y Ficheros** d
 
 **Jesús Pastor Ricoy**
 📍 Cádiz · Londres · Pamplona
+
 📧 [jesus.pastor.ricoy@gmail.com](mailto:jesus.pastor.ricoy@gmail.com)
 
 
